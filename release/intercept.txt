@@ -1,5 +1,7 @@
-lim_{x->0} (sqrt(1+12*sin(x))-1)/tan(x)
+1) lim_{x->0} (sqrt(1+12*sin(x))-1)/tan(x)
 
-lim_{x->0} ln(1+5*tan(x))/sin(x)
+2) lim_{x->0} ln(1+5*tan(x))/sin(x)
+
+0102
 
 73720E7E773C65640E7A653F7A7B0E67673C66700E6F7A3F
